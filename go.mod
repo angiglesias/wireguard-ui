@@ -15,10 +15,10 @@ require (
 	github.com/sendgrid/sendgrid-go v3.14.0+incompatible
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
 	github.com/xhit/go-simple-mail/v2 v2.16.0
-	golang.org/x/crypto v0.17.0
-	golang.org/x/mod v0.14.0
+	golang.org/x/crypto v0.31.0
+	golang.org/x/mod v0.17.0
 	//golang.zx2c4.com/wireguard v0.0.20200121 // indirect
-	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20210803171230-4253848d036c
+	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	gopkg.in/go-playground/validator.v9 v9.31.0
 )
 
@@ -37,16 +37,16 @@ require (
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mdlayher/genetlink v1.3.2 // indirect
 	github.com/mdlayher/netlink v1.7.2 // indirect
-	github.com/mdlayher/socket v0.5.0 // indirect
+	github.com/mdlayher/socket v0.5.1 // indirect
 	github.com/sendgrid/rest v2.6.9+incompatible // indirect
 	github.com/toorop/go-dkim v0.0.0-20201103131630-e1cd1a0a5208 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.2 // indirect
-	golang.org/x/net v0.19.0 // indirect
-	golang.org/x/sync v0.5.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/net v0.33.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
-	golang.zx2c4.com/wireguard v0.0.0-20210427022245-097af6e1351b // indirect
+	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173 // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 )
